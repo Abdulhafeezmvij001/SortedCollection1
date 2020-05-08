@@ -21,7 +21,7 @@ public class StockList {
         this.list = new LinkedHashMap<>();
     }
     
-    public void my Method() {
+    public void myMethod() {
     	
     }
 
